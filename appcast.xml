@@ -1,14 +1,21 @@
 <?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Ambusher</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Thu, 30 Jul 2026 08:26:18 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.2.1</title>
+            <pubDate>Thu, 30 Jul 2026 20:55:50 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.0/Ambusher-0.2.0.zip" length="2717332" type="application/octet-stream" sparkle:edSignature="VuHRdDyBUn2EcPiNL5UE1robLVTng6RQ/3d5vbuBMSzs4lX8xslS2/VanDwjGUovf7Vn66tSD7yfGw7tgiizAw=="/>
+            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.1/Ambusher-0.2.1.zip" length="2722408" type="application/octet-stream" sparkle:edSignature="/Xye9TrBcRLbcya8rs/zoSInULkUSSSWOi/GTOdNL6oAlfPQoYjWwy8kFBE7Bp2xSLT2JiBQt8HlKbp7fBZpBQ=="/>
         </item>
     </channel>
 </rss>
+<!-- sparkle-signatures:
+edSignature: aX8YY0I6XAm5KdmTsUtH+z+mosm5skD0HB4YySj5ZY2HP8vMz+bZOKoe6+fnryOXPkgB7zR9BdwSzKccgLX/BQ==
+length: 1044
+-->
