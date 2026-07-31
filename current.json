@@ -1,24 +1,24 @@
 {
   "architecture" : "universal",
-  "build" : "3",
+  "build" : "7",
   "downloads" : {
     "dmg" : {
-      "fileName" : "Ambusher-0.2.1.dmg",
-      "sha256" : "cbbf880f026834323538dd550609b28d9a1de88262ffd12b7e38e4decb709380",
-      "size" : 2946425,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.1/Ambusher-0.2.1.dmg"
+      "fileName" : "Ambusher-0.2.3.dmg",
+      "sha256" : "6733970a5a700a7a877fac33d4168f8db152d6e564297748420c98ae1307a204",
+      "size" : 2795746,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.3/Ambusher-0.2.3.dmg"
     },
     "zip" : {
-      "fileName" : "Ambusher-0.2.1.zip",
-      "sha256" : "23ec4688bba6df0a78fe8873ad8a38c92e74e6c639b0763843adc57332ab70ab",
-      "size" : 2722408,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.1/Ambusher-0.2.1.zip"
+      "fileName" : "Ambusher-0.2.3.zip",
+      "sha256" : "a3e9415c916c2688314758282181ad45ee894827ea19b80547c19a1723aab04f",
+      "size" : 2607562,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.3/Ambusher-0.2.3.zip"
     }
   },
   "feedURL" : "https://chungboklee.github.io/ambusher-updates/appcast.xml",
   "minimumSystemVersion" : "13.0",
   "name" : "Ambusher",
   "platform" : "mac",
-  "releaseDate" : "2026-07-30T11:56:29.795Z",
-  "version" : "0.2.1"
+  "releaseDate" : "2026-07-31T17:13:49.506Z",
+  "version" : "0.2.3"
 }
