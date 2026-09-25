@@ -1,24 +1,24 @@
 {
   "architecture" : "universal",
-  "build" : "8",
+  "build" : "11",
   "downloads" : {
     "dmg" : {
-      "fileName" : "Ambusher-0.2.4.dmg",
-      "sha256" : "4f4f50d179c8583315d0d0fd95f2af2a347c2221b6f295847d616bac7c657686",
-      "size" : 2798494,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.4/Ambusher-0.2.4.dmg"
+      "fileName" : "Pager-0.3.1.dmg",
+      "sha256" : "3d9306b620c8c2dbf95812977571aedaecf174fd7d8a494003de22f200a28bd5",
+      "size" : 2681009,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.3.1/Pager-0.3.1.dmg"
     },
     "zip" : {
-      "fileName" : "Ambusher-0.2.4.zip",
-      "sha256" : "ca23810d2d5a3ce53a4af6946d22459ea6bab5d79931ac4e4635e4d9605f1daa",
-      "size" : 2609149,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.4/Ambusher-0.2.4.zip"
+      "fileName" : "Pager-0.3.1.zip",
+      "sha256" : "143e5ce58f98249e791800560a263b0c0c67a1fa96b3288dd112f637f193a9c4",
+      "size" : 2431442,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.3.1/Pager-0.3.1.zip"
     }
   },
   "feedURL" : "https://chungboklee.github.io/ambusher-updates/appcast.xml",
   "minimumSystemVersion" : "13.0",
-  "name" : "Ambusher",
+  "name" : "Pager",
   "platform" : "mac",
-  "releaseDate" : "2026-08-15T02:25:08.211Z",
-  "version" : "0.2.4"
+  "releaseDate" : "2026-09-25T11:28:39.829Z",
+  "version" : "0.3.1"
 }

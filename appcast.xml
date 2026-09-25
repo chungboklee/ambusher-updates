@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Ambusher</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Sat, 15 Aug 2026 11:24:27 +0900</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.3.1</title>
+            <pubDate>Fri, 25 Sep 2026 20:28:04 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.2.4/Ambusher-0.2.4.zip" length="2609149" type="application/octet-stream" sparkle:edSignature="9tsLoKPqz/vkLmNnRdM60cKYrV3SXlKzMXVa8HIXXKV9N3KHqvZcFGfg88GiJVaYP8NWCnwZszRKrB3hMDDtCg=="/>
+            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.3.1/Pager-0.3.1.zip" length="2431442" type="application/octet-stream" sparkle:edSignature="9qLSumFgiiNQXhjELTIDIhfUHoU8pd45NFk6NeY2lmfQhdqDeMG1YcyFPXzjOjSdU2bg9R8WDgZjBWDQLEeuDw=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 36fQNgUqBGIk3Cv326I18ET4uXZSFZynIvL2626t+Sdv/uzMTShT5BynMGMlki14fUR+FrVZaK03gBdL304NDg==
-length: 1044
+edSignature: 5Y3ZhyAt4FbhtazmR+SJOjoMr5oYUJygLonqOSSPWTBhKvI8Z7sBfIGBpGJ3pUtzdVUJgr61YgWe/8M68dugAw==
+length: 1042
 -->
