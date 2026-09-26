@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Pager</title>
         <item>
-            <title>0.4.3</title>
-            <pubDate>Sat, 26 Sep 2026 04:02:55 +0900</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Sat, 26 Sep 2026 12:43:05 +0900</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.4.3/Pager-0.4.3.zip" length="2647463" type="application/octet-stream" sparkle:edSignature="rBafsVH0xLOt1c5bJgtj5C+5WwuFEFkEvUvw0Qf3DN/gEd4x0E247bzCYcCakLkKxddhQ0mAd5kX/gSoDYtvAA=="/>
+            <enclosure url="https://github.com/chungboklee/ambusher-updates/releases/download/v0.5.0/Pager-0.5.0.zip" length="2684832" type="application/octet-stream" sparkle:edSignature="+c1EKzqa0V3SaUC+of3QAmYdhNkbKfXUAtsXuVI5TFCeXJJQZqflxMLCw90cB4C+Eim/goZK/dh91fqrPhmIBw=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: btCf+RaFxTd6vWUymuSva03+ljiLJ7fL+KQjsOrP5ncELXiPf2V5PU6ZG7wRV6bI+1v7Y3qJ71dkg4arWAa8Bg==
+edSignature: xCVzLoJp8oWebbOrBNYErhbatEw+kafBux5kLZSay5YyJLyCtRNBR12xc0kMb0imzSQSsRTDO0ymxipFpet5Dw==
 length: 1039
 -->

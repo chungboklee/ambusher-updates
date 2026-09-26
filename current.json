@@ -1,24 +1,24 @@
 {
   "architecture" : "universal",
-  "build" : "15",
+  "build" : "17",
   "downloads" : {
     "dmg" : {
-      "fileName" : "Pager-0.4.3.dmg",
-      "sha256" : "57b481301b88055278b94b02884d5c2e7efb101a520c60995ca5ac30b5ff8e69",
-      "size" : 2963395,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.4.3/Pager-0.4.3.dmg"
+      "fileName" : "Pager-0.5.0.dmg",
+      "sha256" : "e444e10b92b48291cacd3e94e705d77f7d623e489e25e7a9d93ccaa2e9a1825b",
+      "size" : 2982407,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.5.0/Pager-0.5.0.dmg"
     },
     "zip" : {
-      "fileName" : "Pager-0.4.3.zip",
-      "sha256" : "1e758abd90cef6520a36fb84bfe055356a58f0c354e15bce0a6d4129f3632aec",
-      "size" : 2647463,
-      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.4.3/Pager-0.4.3.zip"
+      "fileName" : "Pager-0.5.0.zip",
+      "sha256" : "25f1577436dbeb6d2a35420694f43f7dc921c69b191d2db61a6b3cdd353abb7e",
+      "size" : 2684832,
+      "url" : "https://github.com/chungboklee/ambusher-updates/releases/download/v0.5.0/Pager-0.5.0.zip"
     }
   },
   "feedURL" : "https://chungboklee.github.io/ambusher-updates/appcast.xml",
   "minimumSystemVersion" : "13.0",
   "name" : "Pager",
   "platform" : "mac",
-  "releaseDate" : "2026-09-25T19:03:33.342Z",
-  "version" : "0.4.3"
+  "releaseDate" : "2026-09-26T03:43:41.079Z",
+  "version" : "0.5.0"
 }
